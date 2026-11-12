@@ -1,0 +1,5 @@
+{
+  "_README": "Affiliate links. Key = short name used as /go/<key>/ in articles. Value = your affiliate URL from the ASP / partner dashboard. Keys starting with _ are ignored.",
+  "example-host": "https://example.com/?ref=REPLACE_WITH_YOUR_AFFILIATE_ID",
+  "example-vpn": "https://example.com/?ref=REPLACE_WITH_YOUR_AFFILIATE_ID"
+}

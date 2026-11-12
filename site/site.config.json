@@ -1,0 +1,37 @@
+{
+  "name": "StackSift",
+  "tagline": "Honest guides to the software, hosting and money tools that run your life online.",
+  "url": "https://www.stacksift.com",
+  "language": "en",
+  "author": {
+    "name": "The StackSift Team",
+    "bio": "We research, test and compare online tools so you can pick the right one the first time. Independent, reader-supported, no fluff."
+  },
+  "contactEmail": "hello@stacksift.com",
+  "postsPerPage": 9,
+  "analytics": {
+    "cloudflareToken": ""
+  },
+  "categories": [
+    {
+      "slug": "hosting",
+      "name": "Web Hosting",
+      "description": "Hosting, domains and website builders explained in plain English."
+    },
+    {
+      "slug": "vpn-privacy",
+      "name": "VPN & Privacy",
+      "description": "VPNs, password managers and the tools that keep your accounts safe."
+    },
+    {
+      "slug": "software",
+      "name": "Software & SaaS",
+      "description": "Productivity, email marketing and business software worth paying for."
+    },
+    {
+      "slug": "money",
+      "name": "Money Tools",
+      "description": "Budgeting apps, online banking and finance tools, compared fairly."
+    }
+  ]
+}
