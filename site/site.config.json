@@ -1,13 +1,13 @@
 {
   "name": "StackSift",
   "tagline": "Honest guides to the software, hosting and money tools that run your life online.",
-  "url": "https://www.stacksift.com",
+  "url": "https://staxsift.com",
   "language": "en",
   "author": {
     "name": "The StackSift Team",
     "bio": "We research, test and compare online tools so you can pick the right one the first time. Independent, reader-supported, no fluff."
   },
-  "contactEmail": "hello@stacksift.com",
+  "contactEmail": "hello@staxsift.com",
   "postsPerPage": 9,
   "analytics": {
     "cloudflareToken": ""
