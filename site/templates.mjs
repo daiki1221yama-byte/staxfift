@@ -25,6 +25,7 @@ function layout({ site, categories }, { title, description, url, body, type = "w
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name='impact-site-verification' value='54ed3fe4-f179-468d-9dc8-6e578a73d98a'>
+<meta name="p:domain_verify" content="b82b250fd14d62c12161220dd79a0f45"/>
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(description)}">
 <link rel="canonical" href="${canonical}">
